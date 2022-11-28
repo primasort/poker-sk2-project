@@ -2,6 +2,7 @@
 Project carried out by Kamil Stachowiak and Marcin Stacewicz for the subject SK2.
 
 --------------------------- Sieciowa gra w pokera -----------------------
+
 Gracz łączy się z siecią i wysyła swój nick (jezeli jest on juz zajety, proszony jest on o podanie nowego nicku).
 
 Gracz jest w stanie dołączyć, lub stworzyć nową grę. Gracz moze takze opuscic gre przedwczesnie (w tym wypadku jednak, caly jego depozyt pienięzny ktory mu pozostal przepada).
