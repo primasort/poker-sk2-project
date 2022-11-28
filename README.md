@@ -17,5 +17,3 @@ Gra ta będzie reprezentacją pięciokartowego pokera dobieranego w którym:
     - gracze otrzymują po pięć kart z pełnej talii bez jokerów (52 karty), talii składającej się z 32 kart (od 7) lub z 24 kart (od 9).
     - Następnie pozbywają się niepotrzebnych kart (maksymalnie 4) ze swoich pięciu, można także pozostawić wszystkie karty w ręce.
     - Później dobiera z talii tyle kart, aby miał ich pięć.
-
-    - Dane rozdanie kończy się w przypadku okazania kart gracza posiadających najsilniejszy układ kart według starszeństwa układów. Jeśli w grze pozostanie     tylko jeden gracz podczas gdy inni gracze spasują, wygrywa on pulę niezależnie od posiadanych kart. Jezeli gracze maja takie same karty, dziela wygrana     na polowe.
