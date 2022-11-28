@@ -18,4 +18,4 @@ Gra ta będzie reprezentacją pięciokartowego pokera dobieranego w którym:
     - Następnie pozbywają się niepotrzebnych kart (maksymalnie 4) ze swoich pięciu, można także pozostawić wszystkie karty w ręce.
     - Później dobiera z talii tyle kart, aby miał ich pięć.
 
-    * Dane rozdanie kończy się w przypadku okazania kart gracza posiadających najsilniejszy układ kart według starszeństwa układów. Jeśli w grze pozostanie tylko jeden gracz podczas gdy inni gracze spasują, wygrywa on pulę niezależnie od posiadanych kart. Jezeli gracze maja takie same karty, dziela wygrana na polowe.
+    ** Dane rozdanie kończy się w przypadku okazania kart gracza posiadających najsilniejszy układ kart według starszeństwa układów. Jeśli w grze pozostanie tylko jeden gracz podczas gdy inni gracze spasują, wygrywa on pulę niezależnie od posiadanych kart. Jezeli gracze maja takie same karty, dziela wygrana na polowe.
